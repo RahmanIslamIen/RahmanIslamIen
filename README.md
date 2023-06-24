@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 | salam kenal
 
 <!--
 **RahmanIslamIen/RahmanIslamIen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmanIslamIen&show_icons=true&theme=radical)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+- 🎓 I’m currently study on Universitas Dian Nusantara !
+- 🌱 I’m currently learning anything about web development !
+- 👯 I’m looking to collaborate on other developer !
+- 🤔 I’m looking for help with my learning.
+- 💬 Ask me about web development, desktop, api and other like games.
+- 📫 How to reach me: just talk in github
+- 😄 Pronouns: Rahman
+- ⚡ Fun fact: i like making opensource project for my learning.
