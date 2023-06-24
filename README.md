@@ -1,4 +1,4 @@
-### Hi there 👋 | salam kenal
+### Hi there 👋 i'am web developer !
 
 <!--
 **RahmanIslamIen/RahmanIslamIen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
