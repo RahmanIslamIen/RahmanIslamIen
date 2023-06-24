@@ -9,7 +9,7 @@ I've been coding for 5 years I hope I can develop even more and be able to make 
 * 🌍  I'm based in jakarta
 * ✉️  You can contact me at [https://www.facebook.com/rahman.islam.50951](mailto:https://www.facebook.com/rahman.islam.50951)
 * 🧠  I'm learning in universitas dian nusantara
-* 🤝  I'm open to collaborating on wev development, neatbeans desktop app, and
+* 🤝  I'm open to collaborating on wev development, neatbeans desktop app, and ui/ux design
 * ⚡  i like making opensource project for my learning.
 
 ### Skills
