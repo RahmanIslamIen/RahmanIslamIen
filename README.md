@@ -57,4 +57,4 @@ I've been coding for 5 years I hope I can develop even more and be able to make 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/https://trakteer.id/kodingmantap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://trakteer.id/kodingmantap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
