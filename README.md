@@ -56,5 +56,7 @@ I've been coding for 5 years I hope I can develop even more and be able to make 
 <a href="http://www.github.com/RahmanIslamIen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmanIslamIen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
-
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/kodingmantap','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+<!---
 <a href="https://trakteer.id/kodingmantap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+--->
