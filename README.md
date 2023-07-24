@@ -6,7 +6,7 @@ web developer | fond-end & back-end
 
 I've been coding for 5 years I hope I can develop even more and be able to make cool things with my skills. I'm looking forward to new things to become my experience to deepen this field.
 
-* 🌍  I'm based in jakarta
+* 🌍  I'm based in jakarta at Indonesian country
 * ✉️  You can contact me at [https://www.facebook.com/rahman.islam.50951](mailto:https://www.facebook.com/rahman.islam.50951)
 * 🧠  I'm learning in universitas dian nusantara
 * 🤝  I'm open to collaborating on wev development, neatbeans desktop app, and ui/ux design
