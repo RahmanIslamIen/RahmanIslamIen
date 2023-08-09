@@ -53,6 +53,7 @@ I've been coding for 5 years I hope I can develop even more and be able to make 
 
 <p align="left"> <a href="https://discord.com/users/.mr.rahman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/rahman.islam.50951" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RahmanIslamIen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rahmanislamien" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<center>
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -64,3 +65,4 @@ I've been coding for 5 years I hope I can develop even more and be able to make 
 <a href="https://trakteer.id/kodingmantap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 --->
 <a href="https://trakteer.id/kodingmantap/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+</center>
