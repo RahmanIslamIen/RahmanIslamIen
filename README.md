@@ -1,3 +1,7 @@
+<center>  
+  <img src="rahman_islam_banner.png">
+</center>
+
 Hi 👋 My name is Rahman Islam
 =============================
 
