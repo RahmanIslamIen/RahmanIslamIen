@@ -1,6 +1,4 @@
-<div style="text-align:center">
-  <img src="rahman-islam_minimalist_banner.jpg">
-</div>
+<img src="rahman-islam_minimalist_banner.jpg" style="display: block; float: none; margin-left: auto; margin-right: auto; width: 50%;" />
 
 Hi 👋 My name is Rahman Islam
 =============================
