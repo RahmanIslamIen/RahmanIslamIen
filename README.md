@@ -1,5 +1,5 @@
 <center>  
-  <img src="rahman-islam_minimalist_banner.png">
+  <img src="rahman-islam_minimalist_banner.jpg">
 </center>
 
 Hi 👋 My name is Rahman Islam
