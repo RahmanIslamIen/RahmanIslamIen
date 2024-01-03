@@ -7,7 +7,7 @@ web developer | full stack (fond-end & back-end)
 I've been coding for 5 years I hope I can develop even more and be able to make cool things with my skills. I'm looking forward to new things to become my experience to deepen this field.
 
 * 🌍  I'm based in jakarta at Indonesian country
-* ✉️  You can contact me at [https://www.facebook.com/rahman.islam.50951](mailto:https://www.facebook.com/rahman.islam.50951) in facebook
+* ✉️  You can contact me at [rahmanislamien@gmail.com](mailto:rahmanislamien@gmail.com) in gmail
 * 🧠  I'm learning in **Universitas Dian Nusantara**
 * 🤝  I'm open to **collaborating on web development**, neatbeans desktop app, and UI/UX design
 * ⚡  i like making open-source project for my learning.
