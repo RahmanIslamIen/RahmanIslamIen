@@ -1,8 +1,8 @@
 Hi 👋 My name is Rahman Islam
 =============================
 
-web developer | full stack (dev-ops), front-end, and back-end)
--------------------------------------
+web developer | front-end and back-end
+--------------------------------------
 
 I've been coding for 5 years I hope I can develop even more and be able to make cool things with my skills. I'm looking forward to new things to become my experience to deepen this field.
 
