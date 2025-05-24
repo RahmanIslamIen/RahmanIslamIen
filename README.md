@@ -8,9 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**
 
 💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More**
 
