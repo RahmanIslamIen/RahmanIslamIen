@@ -14,8 +14,6 @@
 
  </div>
  
- <hr/>
- 
 <h2 align="center">⚒️ Most Used Frameworks ⚒️</h2>
 <br/>
 <div align="center">
