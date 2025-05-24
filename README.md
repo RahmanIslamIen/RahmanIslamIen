@@ -9,8 +9,6 @@
 
 ## ⚒️ Most Used Frameworks ⚒️
 
-## 🛡️ Badges
-
 ### 🌐 Web Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
