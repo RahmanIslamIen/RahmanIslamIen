@@ -5,7 +5,6 @@
 <h3 align="center">A passionate software developer from Indonesia 🇮🇩</h3>
 
 <br/>
-<br/>
 
 <div align="center">
  🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**
@@ -14,6 +13,8 @@
 </div>
  
 <h2 align="center">⚒️ Most Used Frameworks ⚒️</h2>
+
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
