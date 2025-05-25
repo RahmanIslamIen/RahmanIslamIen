@@ -10,23 +10,20 @@
 #### ⚒️ Most Used Frameworks ⚒️
 
 ##### 🌐 Web Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
+![Static Badge](https://img.shields.io/badge/Node.js-F4F6FF?style=flat&logo=nodedotjs&logoColor=white&labelColor=%2350BF29)
+![Static Badge](https://img.shields.io/badge/Next.js-F4F6FF?style=flat&logo=nextdotjs&logoColor=white&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/React-F4F6FF?style=flat&logo=react&logoColor=white&labelColor=%2300BCFF)
+![Static Badge](https://img.shields.io/badge/Vue.js-F4F6FF?style=flat&logo=vuedotjs&logoColor=white&labelColor=%2342D392)
+![Static Badge](https://img.shields.io/badge/Tailwind.css-F4F6FF?style=flat&logo=tailwindcss&logoColor=white&labelColor=%2300BCFF)
 
 ##### 📱 Android Frameworks
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Android-F4F6FF?style=flat&logo=android&logoColor=white&labelColor=%233DDC84)
+![Static Badge](https://img.shields.io/badge/Kotlin-F4F6FF?style=flat&logo=kotlin&logoColor=white&labelColor=%237F52FF)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-F4F6FF?style=flat&logo=jetpackcompose&logoColor=white&labelColor=%234285F4)
 
 ##### 💻 Desktop Frameworks
-![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Electron-F4F6FF?style=flat&logo=electron&logoColor=black&labelColor=%239FEAF9)
+![Static Badge](https://img.shields.io/badge/Neatbeans-F4F6FF?style=flat&logo=apachenetbeanside&logoColor=white&labelColor=%232E90E9)
+![Static Badge](https://img.shields.io/badge/Qt-F4F6FF?style=flat&logo=qt&logoColor=white&labelColor=%2341CD52)
 
