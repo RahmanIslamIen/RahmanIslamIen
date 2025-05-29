@@ -6,8 +6,10 @@
 
 <h4>A passionate software developer from Indonesia 🇮🇩</h4>
 
-🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**</br>
-💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More**
+
+| biography                                                                                                                           | stats                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**</br> 💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanIslamIen&theme=tokyonight) |
 
 <h4>✨ All Skills ✨</h4>
 
