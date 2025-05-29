@@ -6,10 +6,8 @@
 
 <h4>A passionate software developer from Indonesia 🇮🇩</h4>
 
-
-| biography                                                                                                                           | stats                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**</br> 💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanIslamIen&theme=tokyonight) |
+🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**</br> 
+💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More**
 
 <h4>✨ All Skills ✨</h4>
 
@@ -37,7 +35,6 @@
 ![Static Badge](https://img.shields.io/badge/Neatbeans-F4F6FF?style=flat&logo=apachenetbeanside&logoColor=white&labelColor=%232E90E9)
 ![Static Badge](https://img.shields.io/badge/Qt-F4F6FF?style=flat&logo=qt&logoColor=white&labelColor=%2341CD52)
 
-
 <h5>💾 Database</h5>
     
 ![Static Badge](https://img.shields.io/badge/Supabase-F4F6FF?style=flat&logo=supabase&labelColor=gray)
@@ -45,5 +42,6 @@
 ![Static Badge](https://img.shields.io/badge/Mongo%20DB-F4F6FF?style=flat&logo=mongodb&logoColor=%2300ED64&labelColor=%23001E2B)
 ![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanIslamIen&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
