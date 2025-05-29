@@ -6,8 +6,7 @@
 
 <h4>A passionate software developer from Indonesia 🇮🇩</h4>
 
-🌱 I’m currently learning **Vue.js, Next.js, Vite, Typescript**</br> 
-💬 Ask me about **Laravel, Nodejs, Codeigniter, React and More**
+I look forward to working together on various multi-platform projects for your needs with maximum quality. Don't hesitate to contact if you have questions or want to use my services.
 
 <h4>✨ All Skills ✨</h4>
 
