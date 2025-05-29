@@ -1,12 +1,23 @@
-<h1 align="center">
-   Hello 👋 my name is <b>Rahman Islam</b>
-</h1>
+<h1 align="center">Hi there 👋, I'm <b>Rahman Islam</b></h1>
+
+<p align="center">
+  <i>A passionate and versatile software developer from Indonesia 🇮🇩</i><br>
+  I specialize in creating reliable, high-performance applications across multiple platforms using modern web and mobile technologies.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔧 Focused on clean, maintainable, and scalable code
+- 🌐 Building web apps with **Laravel**, **Vue.js**, **TailwindCSS**, and **Next.js**
+- 📱 Developing mobile apps with **Flutter**, **Jetpack Compose**, and **Kotlin**
+- 🧩 Open to freelance, collaboration, and long-term projects
+- 📬 Contact me if need something
+
+---
 
 <div align="center">
-
-<h4>A passionate software developer from Indonesia 🇮🇩</h4>
-
-I look forward to working together on various multi-platform projects for your needs with maximum quality. Don't hesitate to contact if you have questions or want to use my services.
 
 <h4>✨ All Skills ✨</h4>
 
@@ -31,5 +42,7 @@ I look forward to working together on various multi-platform projects for your n
 ![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanIslamIen&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 
 </div>
