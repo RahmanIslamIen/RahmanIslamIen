@@ -27,3 +27,9 @@
 ![Static Badge](https://img.shields.io/badge/Neatbeans-F4F6FF?style=flat&logo=apachenetbeanside&logoColor=white&labelColor=%232E90E9)
 ![Static Badge](https://img.shields.io/badge/Qt-F4F6FF?style=flat&logo=qt&logoColor=white&labelColor=%2341CD52)
 
+##### 💾 Database
+![Static Badge](https://img.shields.io/badge/Supabase-F4F6FF?style=flat&logo=supabase&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/MySql-F4F6FF?style=flat&logo=mysql&logoColor=yellow&labelColor=4479A1)
+![Static Badge](https://img.shields.io/badge/Mongo%20DB-F4F6FF?style=flat&logo=mongodb&logoColor=%2300ED64&labelColor=%23001E2B)
+![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
+
