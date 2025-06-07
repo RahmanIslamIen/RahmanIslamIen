@@ -1,9 +1,23 @@
-<h1 align="center">Hi there 👋, I'm <b>Rahman Islam</b></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rahman+Islam;Full-Stack+Developer;Web+App+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+</div>
 
 <p align="center">
-  <i>A passionate and versatile software developer from Indonesia 🇮🇩</i><br>
-  I specialize in creating reliable, high-performance applications across multiple platforms using modern web and mobile technologies.
+  <strong>🚀 A passionate and versatile software developer from Indonesia 🇮🇩</strong><br>
+  <em>I specialize in creating reliable, high-performance applications across multiple platforms using modern web and mobile technologies Crafting elegant solutions with modern technologies • Building scalable applications • Turning ideas into reality</em>
 </p>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/RahmanIslamIen?style=social)](https://github.com/RahmanIslamIen)
+[![GitHub stars](https://img.shields.io/github/stars/RahmanIslamIen?style=social)](https://github.com/RahmanIslamIen)
+[![Profile views](https://komarev.com/ghpvc/?username=RahmanIslamIen&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RahmanIslamIen)
+
+</div>
 
 ---
 
@@ -45,4 +59,12 @@
 
 <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+  **⭐ Star my repositories if you find them useful!**
+  
+  <em>Made with ❤️ by Rahman Islam</em>
 </div>
