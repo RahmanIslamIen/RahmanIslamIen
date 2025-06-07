@@ -63,8 +63,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
-  **⭐ Star my repositories if you find them useful!**
-  
-  <em>Made with ❤️ by Rahman Islam</em>
 </div>
