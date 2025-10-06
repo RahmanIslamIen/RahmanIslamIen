@@ -1,40 +1,23 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rahman+Islam;Full-Stack+Developer;Web+App+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
+selalu belajar dan berkembang di masadepan yang lebih baik adalah suatu hal yang harus di lakukan.
+```
+ ____       _                             ___     _                  
+|  _ \ __ _| |__  _ __ ___   __ _ _ __   |_ _|___| | __ _ _ __ ___   
+| |_) / _` | '_ \| '_ ` _ \ / _` | '_ \   | |/ __| |/ _` | '_ ` _ \  
+|  _ < (_| | | | | | | | | | (_| | | | |  | |\__ \ | (_| | | | | | | 
+|_| \_\__,_|_| |_|_| |_| |_|\__,_|_| |_| |___|___/_|\__,_|_| |_| |_| 
+  __       _ _       _             _                   _             
+ / _|_   _| | |  ___| |_ __ _  ___| | __ __      _____| |__          
+| |_| | | | | | / __| __/ _` |/ __| |/ / \ \ /\ / / _ \ '_ \         
+|  _| |_| | | | \__ \ || (_| | (__|   <   \ V  V /  __/ |_) |        
+|_|  \__,_|_|_| |___/\__\__,_|\___|_|\_\   \_/\_/ \___|_.__/         
+  __| | _____   __                                                   
+ / _` |/ _ \ \ / /                                                   
+| (_| |  __/\ V /                                                    
+ \__,_|\___| \_/                                                     
+```
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</div>
-
-<p align="center">
-  <strong>🚀 A passionate and versatile software developer from Indonesia 🇮🇩</strong><br>
-  <em>I specialize in creating reliable, high-performance applications across multiple platforms using modern web and mobile technologies Crafting elegant solutions with modern technologies • Building scalable applications • Turning ideas into reality</em>
-</p>
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/RahmanIslamIen?style=social)](https://github.com/RahmanIslamIen)
-[![GitHub stars](https://img.shields.io/github/stars/RahmanIslamIen?style=social)](https://github.com/RahmanIslamIen)
-[![Profile views](https://komarev.com/ghpvc/?username=RahmanIslamIen&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RahmanIslamIen)
-
-</div>
-
+semua skill saya
 ---
-
-### 🚀 About Me
-
-- 🔧 Focused on clean, maintainable, and scalable code
-- 🌐 Building web apps with **Laravel**, **Vue.js**, **TailwindCSS**, and **Next.js**
-- 📱 Developing mobile apps with **Flutter**, **Jetpack Compose**, and **Kotlin**
-- 🧩 Open to freelance, collaboration, and long-term projects
-- 📬 Contact me if need something
-
----
-
-<div align="center">
-
-<h4>✨ All Skills ✨</h4>
-
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
 ![Static Badge](https://img.shields.io/badge/Vite-F4F6FF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=%231B1B1B)
 ![Static Badge](https://img.shields.io/badge/Node.js-F4F6FF?style=flat&logo=nodedotjs&logoColor=white&labelColor=%2350BF29)
@@ -54,13 +37,3 @@
 ![Static Badge](https://img.shields.io/badge/MySql-F4F6FF?style=flat&logo=mysql&logoColor=yellow&labelColor=4479A1)
 ![Static Badge](https://img.shields.io/badge/Mongo%20DB-F4F6FF?style=flat&logo=mongodb&logoColor=%2300ED64&labelColor=%23001E2B)
 ![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanIslamIen&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
