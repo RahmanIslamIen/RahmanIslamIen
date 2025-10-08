@@ -16,7 +16,7 @@ selalu belajar dan berkembang di masadepan yang lebih baik adalah suatu hal yang
  \__,_|\___| \_/                                                     
 ```
 
-semua skill saya
+semua techstack yang digunakan
 ---
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
 ![Static Badge](https://img.shields.io/badge/Vite-F4F6FF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=%231B1B1B)
