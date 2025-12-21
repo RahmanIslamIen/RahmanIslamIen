@@ -1,4 +1,4 @@
-selalu belajar dan berkembang dami masadepan yang lebih baik adalah suatu hal yang harus di lakukan.
+selalu belajar dan berkembang demi masadepan yang lebih baik adalah suatu hal yang harus di lakukan.
 ```
  ____       _                             ___     _                  
 |  _ \ __ _| |__  _ __ ___   __ _ _ __   |_ _|___| | __ _ _ __ ___   
