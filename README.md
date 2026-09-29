@@ -10,7 +10,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 
 > ini adalah project yang pernah saya buat sebelum nya **untuk para klien**.
 
-<table align="center">
+<table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center">Web CBT Elearning</h3>
