@@ -1,11 +1,40 @@
-## 👨‍💻 Tentang Saya
+## Perkenalan Singkat
 
 Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsung di seluruh siklus hidup produk — mulai dari merancang **frontend yang presisi hingga ke detail terkecil** hingga merancang **backend yang skalabel**, membangun **aplikasi mobile & desktop**, serta melakukan deployment dengan **praktik DevOps**.
 
 <a href="https://ats-cv-rahman-islam.vercel.app/">Link CV - ATS</a>
 
-kumpulan techstack yang digunakan
 ---
+
+## 🚀 Featured Projects
+
+> ini adalah project yang pernah saya buat sebelum nya **untuk para klien**.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Web CBT Elearning</h3>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=vuedotjs" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
+      </p>
+      <p>mengembangkan website cbt untuk pembelajaran elearning</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Web Penjualan Dapoer Intan</h3>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=laravel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
+      </p>
+      <p>website penjualan untuk dapoer intan untuk penjualan bandeng</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## kumpulan techstack yang digunakan
+
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
 ![Static Badge](https://img.shields.io/badge/Vite-F4F6FF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=%231B1B1B)
 ![Static Badge](https://img.shields.io/badge/Node.js-F4F6FF?style=flat&logo=nodedotjs&logoColor=white&labelColor=%2350BF29)
