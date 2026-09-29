@@ -6,7 +6,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Protofolio Project
 
 > ini adalah project yang pernah saya buat sebelum nya **untuk para klien**.
 
