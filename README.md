@@ -15,18 +15,18 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
     <td width="50%">
       <h3 align="center">Web CBT Elearning</h3>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=vuedotjs" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/microservice-181717?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
       </p>
-      <p>mengembangkan website cbt untuk pembelajaran elearning</p>
+      <p align="center">mengembangkan website cbt untuk pembelajaran elearning</p>
     </td>
     <td width="50%">
       <h3 align="center">Web Penjualan Dapoer Intan</h3>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=laravel" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/monolitic-181717?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
       </p>
-      <p>website penjualan untuk dapoer intan</p>
+      <p align="center">website penjualan untuk dapoer intan</p>
     </td>
   </tr>
 </table>
