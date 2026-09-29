@@ -1,20 +1,6 @@
-selalu belajar dan berkembang demi masadepan yang lebih baik adalah suatu hal yang harus di lakukan.
-```
- ____       _                             ___     _                  
-|  _ \ __ _| |__  _ __ ___   __ _ _ __   |_ _|___| | __ _ _ __ ___   
-| |_) / _` | '_ \| '_ ` _ \ / _` | '_ \   | |/ __| |/ _` | '_ ` _ \  
-|  _ < (_| | | | | | | | | | (_| | | | |  | |\__ \ | (_| | | | | | | 
-|_| \_\__,_|_| |_|_| |_| |_|\__,_|_| |_| |___|___/_|\__,_|_| |_| |_| 
-  __       _ _       _             _                   _             
- / _|_   _| | |  ___| |_ __ _  ___| | __ __      _____| |__          
-| |_| | | | | | / __| __/ _` |/ __| |/ / \ \ /\ / / _ \ '_ \         
-|  _| |_| | | | \__ \ || (_| | (__|   <   \ V  V /  __/ |_) |        
-|_|  \__,_|_|_| |___/\__\__,_|\___|_|\_\   \_/\_/ \___|_.__/         
-  __| | _____   __                                                   
- / _` |/ _ \ \ / /                                                   
-| (_| |  __/\ V /                                                    
- \__,_|\___| \_/                                                     
-```
+## 👨‍💻 Tentang Saya
+
+Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsung di seluruh siklus hidup produk — mulai dari merancang **frontend yang presisi hingga ke detail terkecil** hingga merancang **backend yang skalabel**, membangun **aplikasi mobile & desktop**, serta melakukan deployment dengan **praktik DevOps**.
 
 semua techstack yang digunakan
 ---
