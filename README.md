@@ -6,33 +6,6 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 
 ---
 
-## 🚀 Protofolio Project
-
-> ini adalah project yang pernah saya buat sebelum nya **untuk para klien**.
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Web CBT Elearning</h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/microservice-181717?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
-      </p>
-      <p align="center">mengembangkan website cbt untuk pembelajaran elearning</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Web Penjualan Dapoer Intan</h3>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/monolitic-181717?style=for-the-badge" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
-      </p>
-      <p align="center">website penjualan untuk dapoer intan</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## kumpulan techstack yang digunakan
 
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
@@ -58,3 +31,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 ![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
 ![Static Badge](https://img.shields.io/badge/Docker-F4F6FF?style=flat&logo=docker&logoColor=00b4d8&labelColor=%230E172C)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-F4F6FF?style=flat&logo=kubernetes&logoColor=00b4d8&labelColor=%230E172C)
+
+## stat github
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=RahmanIslamIen\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
