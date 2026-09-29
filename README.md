@@ -4,7 +4,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 
 <a href="https://ats-cv-rahman-islam.vercel.app/">Link CV - ATS</a>
 
-semua techstack yang digunakan
+kumpulan techstack yang digunakan
 ---
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
 ![Static Badge](https://img.shields.io/badge/Vite-F4F6FF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=%231B1B1B)
