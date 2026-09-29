@@ -26,7 +26,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
         <a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=laravel" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=serverless" /></a>
       </p>
-      <p>website penjualan untuk dapoer intan untuk penjualan bandeng</p>
+      <p>website penjualan untuk dapoer intan</p>
     </td>
   </tr>
 </table>
