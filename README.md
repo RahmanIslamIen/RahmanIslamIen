@@ -38,6 +38,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
 ![Static Badge](https://img.shields.io/badge/Vite-F4F6FF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=%231B1B1B)
 ![Static Badge](https://img.shields.io/badge/Node.js-F4F6FF?style=flat&logo=nodedotjs&logoColor=white&labelColor=%2350BF29)
+![Static Badge](https://img.shields.io/badge/Go-F4F6FF?style=flat&logo=go&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Next.js-F4F6FF?style=flat&logo=nextdotjs&logoColor=white&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/React-F4F6FF?style=flat&logo=react&logoColor=white&labelColor=%2300BCFF)
 ![Static Badge](https://img.shields.io/badge/Vue.js-F4F6FF?style=flat&logo=vuedotjs&logoColor=white&labelColor=%2342D392)
