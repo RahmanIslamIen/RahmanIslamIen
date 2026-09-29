@@ -56,5 +56,7 @@ Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsun
 ![Static Badge](https://img.shields.io/badge/MySql-F4F6FF?style=flat&logo=mysql&logoColor=yellow&labelColor=4479A1)
 ![Static Badge](https://img.shields.io/badge/Mongo%20DB-F4F6FF?style=flat&logo=mongodb&logoColor=%2300ED64&labelColor=%23001E2B)
 ![Static Badge](https://img.shields.io/badge/Firebase-F4F6FF?style=flat&logo=firebase&logoColor=%23FECD28&labelColor=%23F68304)
+
 ![Static Badge](https://img.shields.io/badge/Docker-F4F6FF?style=flat&logo=docker&logoColor=%003049&labelColor=%231B1B1B)
+
 ![Static Badge](https://img.shields.io/badge/Kubernetes-F4F6FF?style=flat&logo=kubernetes&logoColor=%003049&labelColor=%231B1B1B)
