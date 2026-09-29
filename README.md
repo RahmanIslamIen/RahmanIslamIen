@@ -2,6 +2,8 @@
 
 Saya seorang **Full-Stack Developer** yang bersemangat dengan pengalaman langsung di seluruh siklus hidup produk — mulai dari merancang **frontend yang presisi hingga ke detail terkecil** hingga merancang **backend yang skalabel**, membangun **aplikasi mobile & desktop**, serta melakukan deployment dengan **praktik DevOps**.
 
+<a href="https://ats-cv-rahman-islam.vercel.app/">Link CV - ATS</a>
+
 semua techstack yang digunakan
 ---
 ![Static Badge](https://img.shields.io/badge/Laravel-F4F6FF?style=flat&logo=laravel&logoColor=white&labelColor=F53003)
